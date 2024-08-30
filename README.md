@@ -17,3 +17,7 @@ The Binomial Asset Pricing Model is a popular method for pricing options. It mod
 
 - Python 3.11 or above
 - `numpy` package
+
+#### Inspiration
+I followed this tutorial to understand and implement the code:
+https://www.youtube.com/watch?v=a3906k9C0fM
